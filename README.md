@@ -1,6 +1,6 @@
 更适合中国宝宝体质的MDMC Installer
 
-因为总有电脑小白问我“主播主播MDMC怎么安装啊？”，遂发起此项目，但是觉得做都做了，就发个Github吧
+因为总有电脑小白问我“主播主播MDMC怎么安装啊？”，一怒之下做了个exe出来，但是觉得做都做了，就发个Github吧
 
 此项目硬件需求：基于Windows10或Windows11，并且安装了MuseDash及DLC（计划通或MusePlus）的电脑
 
